@@ -1,5 +1,7 @@
  
 https://www.steneum.com
+Pool -> http://steneumpool.ddns.net:8080/stats
+ChainExplorer -> http://steneumchain.ddns.net/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2017-2017 Steneum Developers
