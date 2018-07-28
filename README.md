@@ -1,10 +1,13 @@
  
-https://www.steneum.com
-Pool -> http://steneumpool.ddns.net:8080/stats
-ChainExplorer -> http://steneumchain.ddns.net/
+###### Official Site -> https://www.steneum.com
+###### Pool -> http://steneumpool.ddns.net/stats
+###### ChainExplorer -> http://steneumchain.ddns.net/
+###### Official Exchange page -> https://bitsten.com/
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2017-2017 Steneum Developers
+
+Copyright (c) 2009-2014 Bitcoin Developers <br />
+Copyright (c) 2017-2017 Steneum Developers <br />
+Copyright (c) 2017-2018 xlp0rk0lx <br />
 
 What is Steneum?
 ----------------
