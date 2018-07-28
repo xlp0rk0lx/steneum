@@ -50,7 +50,7 @@ Comment: NUVOLA ICON THEME for KDE 3.x
 Files: src/qt/res/icons/connect*.png
 Copyright: schollidesign
 License: GPL-3+
-Comment: Icon Pack: Human-O2
+Comment: Icon Pack: Human-Ofast
          Site: http://findicons.com/icon/93743/blocks_gnome_netstatus_0
 
 Files: src/qt/res/icons/transaction*.png

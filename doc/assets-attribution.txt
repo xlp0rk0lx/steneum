@@ -18,7 +18,7 @@ License: LGPL
 Site: http://www.icon-king.com/projects/nuvola/
 
 Icon: src/qt/res/icons/connect*.png
-Icon Pack: Human-O2
+Icon Pack: Human-Ofast
 Designer: schollidesign
 License: GNU/GPL
 Site: http://findicons.com/icon/93743/blocks_gnome_netstatus_0

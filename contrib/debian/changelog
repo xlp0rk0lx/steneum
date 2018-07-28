@@ -349,7 +349,7 @@ bitcoin (0.3.19~dfsg-2) unstable; urgency=low
     FTBFS on i386 (and other archs, if compiling anywhere else at all).
   * Avoid static linking.
   * Adjust patch 2001 to avoid only arch-specific optimizations (keep
-    -O3).
+    -Ofast).
   * Extend long description to mention disk consumption and initial use
     of IRC.
   All of above changes thanks to Helmuth Grohne.
